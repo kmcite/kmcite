@@ -1,16 +1,54 @@
-# applications
+# Dr. Adnan Farooq - Developer Portfolio
 
-A new Flutter project.
+## About Me
 
-## Getting Started
+**Name:** Dr. Adnan Farooq  
+**Profession:** Healthcare Provider Doctor  
+**Workplace:** BKMC/THQ Chota Lahor  
+**Technical Interest:** Flutter/Dart Development  
 
-This project is a starting point for a Flutter application.
+I am a healthcare professional with a passion for technology and mobile app development. I combine my medical expertise with Flutter development skills to create innovative solutions in the healthcare and business domains.
 
-A few resources to get you started if this is your first Flutter project:
+## Technical Skills
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Primary:** Flutter & Dart
+- **Focus Areas:** Mobile App Development, Healthcare Solutions
+- **Platform Experience:** Cross-platform mobile applications
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Current Projects
+
+I am actively working on several Flutter-based projects:
+
+### 🏥 Hospital
+*Flutter Project*
+- Healthcare management application
+- *More details to be added*
+
+### 🏪 Ideal Store
+*Flutter Project*
+- Store management solution
+- *More details to be added*
+
+### 👥 Patients
+*Flutter Project*
+- Patient management system
+- *More details to be added*
+
+### 👨‍⚕️ Doctor on Duty
+*Flutter Project*
+- Doctor scheduling and duty management
+- *More details to be added*
+
+---
+
+## Project Status
+
+All projects are currently in active development using Flutter framework. Detailed documentation and features for each project will be updated as development progresses.
+
+## Contact & Collaboration
+
+For professional inquiries or collaboration opportunities, please reach out through appropriate channels.
+
+---
+
+*Last Updated: November 2025*
